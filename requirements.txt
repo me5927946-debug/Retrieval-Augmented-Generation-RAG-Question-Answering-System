@@ -1,0 +1,15 @@
+faiss-cpu
+sentence-transformers
+transformers
+torch
+accelerate
+fastapi
+uvicorn
+python-multipart
+pypdf2
+numpy
+pandas
+scikit-learn
+huggingface-hub
+bitsandbytes
+pyngrok
